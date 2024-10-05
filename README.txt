@@ -24,3 +24,4 @@ Se ha realizado un desarrollo basado en el enfoque ATDD, donde se han escrito to
 Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/com/sotobotero/bank/BankBusinessRuleTests.java
 ## Más informacion
 Echo por Carlos Adrian Soto Botero. http://localhost:8080/amil@gmail.com
+SE ELIMINA LA ULTIMA LINEA
